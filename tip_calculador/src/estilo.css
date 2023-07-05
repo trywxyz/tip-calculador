@@ -1,0 +1,71 @@
+body {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    background-image: url(./fundooo.gif);
+    padding: 120px;
+    background-size:1750px;}
+div {
+    width: 280px;
+    height: 570px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin: auto;
+    padding: 40px;}
+#title {
+    width: 250px;
+    height: 80px;
+    background-color: rgba(136, 136, 136, 0.598);
+    margin: auto;
+    border-radius: 10px;}
+#tipsForm {
+    text-align: left;
+    width: 120px;
+    padding: 5px;}
+.formInput {
+    background-color: rgb(255, 255, 255);
+    width: 170px;
+    padding: 7px;
+    border-radius: 8px;
+    font-size: 14px;}
+.formInput:focus {
+    border: 3px solid rgb(0, 0, 0);}
+.formSelect {
+
+    border-radius: 8px;
+    height: 32px;
+    width: 185px;
+    padding: 5px;
+    font-size: 15px;
+    opacity: 90%;}
+#calcular {
+
+    text-transform: uppercase;
+    display: block;
+    margin: 30px auto;
+    height: 50px;
+    width: 270px;
+    font-size: 30px;
+    background-color: rgba(33, 186, 33, 0.868);
+    border-radius: 10px;
+    align-items: center;}
+#calcular:focus {
+    border: 3px solid rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.583);}
+p {
+    width: 160px;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: bold}
+#each {
+    font-size: 15px;
+    text-align: center;
+    width: 270px;
+    padding: 1px;
+    font-size: 23px;
+    text-align: center;}
+#cada {
+    padding-top: 1px;
+    width: 250px;
+    text-align: center;
+    font-size: 23px;}
